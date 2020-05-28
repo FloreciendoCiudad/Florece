@@ -2,7 +2,7 @@ title: Floreciendo Ciudad
 author: Lagos Piña
 email: floreciendociudad@gmail.com
 
-=======
+
 description: De parques, banquetas, flores y vecinas.  Ideas sobre la ciudad que habitamos de la voz de una vecina.
 
 
@@ -10,6 +10,7 @@ description: De parques, banquetas, flores y vecinas.  Ideas sobre la ciudad que
 # social links
 twitter_username: FloreceCiudad # DO NOT include the @ character, or else the build will fail!
 github_username:  FloreciendoCiudad # DO NOT include the @ character, or else the build will fail!
+instagram_username: floreciendo_ciudad
 
 theme: minima
 
