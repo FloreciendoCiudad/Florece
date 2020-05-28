@@ -1,3 +1,8 @@
+---
+title: "¿VECINAS O CIUDADANAS"
+date: 2020-05-28
+---
+
 ## **¿Vecinas *o* Ciudadanas?**
 
 Desde hace algún tiempo escribo el proyecto con el que planeo titularme. 
