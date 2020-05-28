@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Floreciendo Ciudad
+*Bienvenida
 
-I'm glad you are here. I plan to talk about ...
+Gracias por visitar este blog/plaza virtual, busca una banca con sombra y ponte cómoda ...
