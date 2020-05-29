@@ -1,4 +1,3 @@
-![portada](https://user-images.githubusercontent.com/66037367/83179071-1517eb00-a0e7-11ea-9fab-a99950d28434.png)
 
 ## **Gracias por visitar esta *plaza* virtual, busca una banca con sombra y ponte cómoda.** 
 
