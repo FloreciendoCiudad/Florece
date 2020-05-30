@@ -2,7 +2,10 @@
 title: "¿Vecinas o Ciudadanas?"
 date: 2020-05-28
 ---
-
+<style>
+body { background-image: url("images/floresfondo7.png");} 
+    
+</style>
 
 
 ## ¿Cuando participamos en la ciudad, somos *vecinas* o *ciudadanas*?
