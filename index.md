@@ -1,4 +1,4 @@
-![portada](/images/portadabbbb.png)
+![portada](/images/portadatransp.png)
 
 
 ## **Gracias por visitar esta *plaza* virtual, busca una banca con sombra y ponte cómoda.** 
