@@ -13,5 +13,6 @@ github_username:  FloreciendoCiudad # DO NOT include the @ character, or else th
 instagram_username: floreciendo_ciudad
 
 theme: minima
+skin: solarized
 
 show_excerpts: true # set to false to remove excerpts on the homepage
