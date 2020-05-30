@@ -16,5 +16,3 @@ fnajvkjgbkjkjfajf. ajfjjv. fjjv
 
 https://app.mural.co/t/floreciendoideas3041/m/floreciendoideas3041/1589489667646/7871d8e9bb6b2b9cd0c7011448eebd11664fda27
 
-  </body>
-</html>  
