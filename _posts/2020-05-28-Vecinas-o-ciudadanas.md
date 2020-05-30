@@ -1,11 +1,3 @@
-
-<html>
-  <body>
-    
-<style>
-body { background-image: url("images/floresfondo7.png");} 
-    
-</style>
 ---
 title: "¿Vecinas o Ciudadanas?"
 date: 2020-05-28
