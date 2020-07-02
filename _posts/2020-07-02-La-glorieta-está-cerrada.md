@@ -1,6 +1,6 @@
 ---
 title: "La glorieta está cerrada"
-date: 2020-05-28
+date: 2020-07-02
 ---
 Salí a pasear durante el atardecer. Mis perritos y yo fuimos a dar vueltas al camellón y a la glorieta de la colonia, ellos a pie, yo en bici.
 Qué rara es la colonia enmedio de una pandemia. Personas con cubrebocas evitando cruzar con otras, volteando a todos lados con miego, otrxs van en grupo, no se preocupan y otrxs más van con prisa, sin un minuto que perder.
