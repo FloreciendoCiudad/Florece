@@ -1,13 +1,16 @@
-.
+..
+
+..
 
 
-.
+..
 
-.
 
-.
+..
 
-.
+..
+
+..
 
 **Gracias por visitar esta *plaza* virtual, busca una banca con sombra y ponte cómoda.** 
 
